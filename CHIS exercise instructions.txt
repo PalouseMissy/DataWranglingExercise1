@@ -1,0 +1,4 @@
+Submit your code for the CHIS exercise
+Instructions
+Copy and paste the R code from the CHIS exercise in the ggplot2 tutorial into a file CHIS.R
+Check in CHIS.R into your github repository and submit the link
